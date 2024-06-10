@@ -37,10 +37,20 @@ Initial Cards created. Currently no logic. This is the basic HTML structure.
 
 <img src="src/assets/screenshots/initialCards.png" width="300" />
 
+Testing the notes. 
+
+<img src="src/assets/screenshots/notesTesting.png" width="300" />
+
+Modal for adding a Card.
+
+<img src="src/assets/screenshots/addCardModal.png" width="300" />
+
 ## Notes
 
 * Create the basic HTML structure
 * Functionality for the + button to display the modal 
+* Two way binding with v-model 
+* Understanding of state with adding a card
 
 
 
